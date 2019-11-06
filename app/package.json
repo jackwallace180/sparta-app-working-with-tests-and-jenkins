@@ -15,7 +15,7 @@
     "faker": "^4.1.0",
     "istanbul": "^0.4.5",
     "jenkins-mocha": "^3.0.4",
-    "mongoose": "^4.11.11"
+    "mongoose": "^5.7.8"
   },
   "devDependencies": {
     "chai": "^3.5.0",
